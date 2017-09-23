@@ -1,7 +1,7 @@
-# automaticvalve
+# Valvula automatica activada por sismos
 Dispositivo para detener el paso de gas al detectar un terremoto
 
-## Materiales
+### Materiales
 
 * arduino nano
 * Sw-420
